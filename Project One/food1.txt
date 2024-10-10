@@ -1,0 +1,22 @@
+Sandwiches	Ham sandwich	Classic ham sandwich	Available
+Sandwiches	Chicken salad sandwich	Chicken salad sandwich	Not available
+Sandwiches	Grilled cheese sandwich	Grilled cheese sandwich	Available
+Sandwiches	Hamburger	Classic hamburger	Available
+Sandwiches	Cheeseburger	Classic cheeseburger	Not available
+Salads	Caesar salad	Chunks of romaine heart lettuce dressed with lemon juice	Available
+Salads	Asian salad	Mixed greens with ginger dressing, sprinkled with sesame	Not available
+Salads	Cajun salad	Chopped kale with creamy Cajun dressing	Available
+Salads	Garden salad	Iceberg lettuce dressed with olive oil and vinegar	Not available
+Drinks	Water	16oz bottled water	Available
+Drinks	Coca-Cola	16oz Coca-Cola	Not available
+Drinks	Pepsi	16oz Pepsi	Available
+Drinks	Sprite	16oz Sprite	Available
+Mexican food	Chicken tacos	Grilled chicken breast in freshly made tortillas	Not available
+Mexican food	Beef tacos	Ground beef in freshly made tortillas	Available
+Mexican food	Enchiladas	Beef enchilada in special enchilada sauce	Not available
+Mexican food	Nachos	Nachos and cheese	Not available
+Mexican food	Chips & salsa	Tortilla chips with freshly made salsa	Available
+Vegetarian	Tofu sandwich	Sliced firm tofu with special miso sauce	Not available
+Vegetarian	Avocado sandwich	Sliced avocado with fruity spread	Not available
+Vegetarian	Veggie sub	Big sub stuffed with seasonal vegetables	Available
+Vegetarian	Black bean soup	Our famous slow cooked black bean soup	Not available
